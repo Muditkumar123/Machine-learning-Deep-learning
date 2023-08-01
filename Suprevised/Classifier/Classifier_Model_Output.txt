@@ -1,0 +1,23 @@
+Logistic Regression:
+Precision score: 0.9141323792486583
+
+
+Recall score: 0.8576703591809332
+
+
+F1 score: 0.885001731901628
+
+
+
+
+
+SGDC:
+
+
+Precision score: 0.8098761460511501
+
+
+Recall score: 0.8450822423632092
+
+
+F1 score: 0.8271047227926078
